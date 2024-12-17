@@ -10,7 +10,7 @@ This project is a **clone** of the Sidcup Family Golf website, built using **HTM
   - **CSS3**: Styled the site with animations, responsiveness, and modern design.
   - **JavaScript & jQuery**: Added interactivity and dynamic functionality.
   - **GSAP**: Implemented smooth animations and transitions.
-- **Source Tutorial**: Followed a tutorial by [Sheryians Coding School](https://www.youtube.com/@sheryianscodingschool).
+- **Source Tutorial**: Followed a tutorial by [Sheryians Coding School](www.youtube.com/@sheryians).
 
 ---
 
